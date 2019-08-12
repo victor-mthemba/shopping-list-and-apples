@@ -70,3 +70,10 @@ The functions should do the following.
 * Calculate the total income per color sold.
 * Calculate the total profit per color sold.
 * Find the most profitable apple color sold.
+
+
+## When you are done.
+
+When you are done please email `mentors@projectcodex.co` to request a code review.
+
+You have time to complete this up until `17h00` on `Monday 12 August` - please ensure you send the review email before `17h15`.
