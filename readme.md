@@ -58,7 +58,7 @@ const apples = [
 ]
 ```
 
-Make at least **4 (four)** of the tests in the `test/index.html` pass.
+Make at least **4 (four)** of the tests in the `test/index.html` [test/index.html](test/index.html)  pass.
 
 The functions should do the following.
 
@@ -71,9 +71,10 @@ The functions should do the following.
 * Calculate the total profit per color sold.
 * Find the most profitable apple color sold.
 
-
 ## When you are done.
 
 When you are done please email `mentors@projectcodex.co` to request a code review.
 
-You have time to complete this up until `17h00` on `Monday 12 August` - please ensure you send the review email before `17h15`.
+You have time to complete this up until `17h00` on `Monday 12 August` - if you are done earlier that's great.
+
+Please ensure you send the review request email before `17h15`.
